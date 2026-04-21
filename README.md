@@ -35,7 +35,6 @@ O foco do projeto é aplicar conceitos fundamentais de desenvolvimento, como org
 * Bibliotecas padrão:
 
   * csv
-  * os
 
 ---
 
@@ -114,6 +113,3 @@ Este projeto faz parte de um portfólio com foco em evolução prática em Pytho
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por você 🚀
