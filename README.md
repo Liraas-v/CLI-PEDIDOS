@@ -1,14 +1,3 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=wave&color=555555&height=120&section=header&text=CLI+Pedidos&fontSize=36&fontColor=ffffff)
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-555?style=flat)
-
-</div>
-
----
-
 ## O que é
 
 CLI Pedidos é uma aplicação de linha de comando escrita em Python para gerenciar pedidos de serviços de lavanderia. O sistema permite registrar, listar e atualizar o status de pedidos diretamente pelo terminal, sem depender de banco de dados externo.
